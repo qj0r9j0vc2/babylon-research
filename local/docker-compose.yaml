@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  local:
+    container_name: "babylon-local"
+    image: "ghcr.io/qj0r9j0vc2/babylon:v1.0.0-rc.3-logging"
+    command:
+      - babylond
+      - start
+      - --home=/home/babylon/babylond/
+    volumes:
+      - ./babylon/:/home/babylon/
+    ports:
+      - "26657:26657"
