@@ -75,6 +75,7 @@ sed -i.bak -e "s/seeds = \".*\"/seeds = \"$SEEDS\"/" \
            config/config.toml
 
 sed -i.bak -e "s/iavl-disable-fastnode = false/iavl-disable-fastnode = true/" \
+           -e "s/pruning = \".*\"/pruning = \"nothing\"/" \
            config/app.toml
 
 echo_info "Navigating back to project root"
