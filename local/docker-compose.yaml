@@ -5,9 +5,9 @@ services:
     container_name: "babylon-local"
     image: "ghcr.io/qj0r9j0vc2/babylon:v1.0.0-rc.3-logging"
     command:
-      - babylond
-      - start
-      - --home=/home/babylon/babylond/
+      - bash
+      - -c
+      - "babylond start --home=/home/babylon/babylond/ 2>&1 | tee /home/babylon/babylond/container.log"
     volumes:
       - ./babylon/:/home/babylon/
     ports:

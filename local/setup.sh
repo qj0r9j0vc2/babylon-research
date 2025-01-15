@@ -1,5 +1,7 @@
 #!/bin/bash
 
+BACKUP=${BACKUP:-true}
+
 set -e
 set -u
 set -o pipefail
@@ -20,6 +22,8 @@ echo_info "Creating and navigating to directory: $DIR_NAME/$CHAIN_HOME"
 mkdir -p "$DIR_NAME/$CHAIN_HOME"
 cd "$DIR_NAME"
 
+docker compose down
+
 echo_info "Checking for existing genesis.json file"
 if [ -f "$CHAIN_HOME/config/genesis.json" ]; then
   read -p "genesis.json already exists. Do you want to initialize? (y/n): " choice
@@ -27,9 +31,20 @@ if [ -f "$CHAIN_HOME/config/genesis.json" ]; then
     echo_info "Initialization skipped. Exiting setup."
     exit 0
   fi
+  if [ "$BACKUP" = true ]; then
+    backup_file="$(echo $CHAIN_HOME)_$(date +%Y-%m-%dT%H:%M:%S).tar.lz4"
+    echo_info "Backing up $CHAIN_HOME to $backup_file"
+    tar -cvf - "$CHAIN_HOME" | lz4 > "$backup_file"
+    mkdir -p working_hash
+    hash_log_file="working_hash/$(date +%Y-%m-%dT%H:%M:%S)_working_hash.log"
+    echo_info "Moving working_hash.log to $hash_log_file"
+    mv working_hash.log "$hash_log_file" || touch "$hash_log_file"
+  fi
 fi
 
-rm -r "$CHAIN_HOME/"
+rm -rf "$CHAIN_HOME/"
+mkdir -p "$CHAIN_HOME"
+
 echo_info "Initializing chain with Docker container"
 docker run -it --rm -v "./$CHAIN_HOME":/home/babylon/$CHAIN_HOME/ "$DOCKER_IMAGE" babylond init --home "/home/babylon/$CHAIN_HOME/" local
 
