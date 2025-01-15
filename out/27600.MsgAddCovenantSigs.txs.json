@@ -1,0 +1,74 @@
+[
+{
+    "signer": "bbn16rzj8hhn4nd66wq7felknwx86y0n9rj9tlndss",
+    "pk": "0aee0509b16db71c999238a4827db945526859b13c95487ab46725357c9a9f25",
+    "staking_tx_hash": "74815938397eab74cbb434a102aef2580b22da02b07be3dae32c28eb65a1b644",
+    "slashing_tx_sigs": [
+        "ArYdFqXhvrWUcqYhnq3hxy2L82lakbmz+ofw+gc6aX/dtJzqz9jd5mm9NaGttUuPrx+M4f++ubk5bKqiCt6hSNoB"
+    ],
+    "unbonding_tx_sig": "34pUyEVZhoVlu7YyhWpn9Ssjqh9rqE966iTu1BrW+b8M2J7U/FLVsfNGj1DJ6MtDO8/q+py08CA7zgAQocfVXw==",
+    "slashing_unbonding_tx_sigs": [
+        "Av5n8Cj9quJ5EDEA26ZcMq9pRuB1cJo7XbUHpCsCGr9h9DH3yiYGfiwhaffq1dkDgP1DjEbY4DK+fcI2T4kVE9sA"
+    ]
+},
+{
+    "signer": "bbn16rzj8hhn4nd66wq7felknwx86y0n9rj9tlndss",
+    "pk": "0aee0509b16db71c999238a4827db945526859b13c95487ab46725357c9a9f25",
+    "staking_tx_hash": "824f533bd5d61b832edd7e2a76a88bcd66d1242c062a123e7ebb38d87f8a21d9",
+    "slashing_tx_sigs": [
+        "Av1Fa5MkT43X8+uMoy6jNK0UY7OoHdjYgu7yVJ8iq8aGGFIcKXyh5rtyPfQJnkHaEgtzlAn9kLcVZp0kX/3ZQIoA"
+    ],
+    "unbonding_tx_sig": "UAzza0EKGXMikUQXy6nmmjQ+bIg1sMmqg1NqZlca8IqLIsfN3nroZzabQ1lJ43CSvK6wqI5px+vtS7IPp06Dhg==",
+    "slashing_unbonding_tx_sigs": [
+        "AgEMcs1WQyRdY0tF1vL0oQ62DS6BNgWqVuW8bAJoLmjD/GLxzgs3LxkPsFuvYdo0p+Sr80a1FiDivYuQfqApqLUB"
+    ]
+},
+{
+    "signer": "bbn1kqx8c9h6qwrur2mz66yvu6kj4ze6nhpsz62drr",
+    "pk": "17921cf156ccb4e73d428f996ed11b245313e37e27c978ac4d2cc21eca4672e4",
+    "staking_tx_hash": "74815938397eab74cbb434a102aef2580b22da02b07be3dae32c28eb65a1b644",
+    "slashing_tx_sigs": [
+        "Au9whdQbhsEJvjyKD1TZwQNVMszxMKvifLBySAEuV5EcH0Ji1K1da5SRllnGxiBa5YbmDIWGewcIuvkKCwJPbTEB"
+    ],
+    "unbonding_tx_sig": "gAY9yucUpO5hfVbjHskSTfZUPCWmnvPoVKB+Dis7cFBZzFgQG2E+42ahffqoeOGmOSQdiBa+kClkZt22ODpmDw==",
+    "slashing_unbonding_tx_sigs": [
+        "AkgZUK6VsMMwDpnvxrxBk/ndM2voKkVcZHZtX/7z7z3bsTs0lG5ydd7qMY5zykoh2FonqI4wLUu3e9uNwBLIFbUB"
+    ]
+},
+{
+    "signer": "bbn1kqx8c9h6qwrur2mz66yvu6kj4ze6nhpsz62drr",
+    "pk": "17921cf156ccb4e73d428f996ed11b245313e37e27c978ac4d2cc21eca4672e4",
+    "staking_tx_hash": "824f533bd5d61b832edd7e2a76a88bcd66d1242c062a123e7ebb38d87f8a21d9",
+    "slashing_tx_sigs": [
+        "AogLGb+e7X0nEh1GprqTs9N9bdLvKO+ShcGhczRIwmmSCpdk2zWemV9ech0qK5T/aildHRM+xH2FwHxpWZ3BBZcA"
+    ],
+    "unbonding_tx_sig": "Luf/veWlVKoEPDfD0LkTc7rr9CZGUMKkR+klMx5o8ozXDKT07jEkxu2QYS+Qcu4JHLTpASXP4mTSdqKvwsYCtw==",
+    "slashing_unbonding_tx_sigs": [
+        "Am8/gPGwKPFETRnGf8aKnNOfHpTokgYQeeGtEofZCPOIQqhSj5dV4fz+pZHlN1JyKYmcNAV9Q041S6BCLGlRVkwB"
+    ]
+},
+{
+    "signer": "bbn1zcul5x2vwy0gpf6f7j6uhppzmaata8p3cr94dx",
+    "pk": "fa9d882d45f4060bdb8042183828cd87544f1ea997380e586cab77d5fd698737",
+    "staking_tx_hash": "74815938397eab74cbb434a102aef2580b22da02b07be3dae32c28eb65a1b644",
+    "slashing_tx_sigs": [
+        "Aqv7fpKtobeBo1YvtdQqTx/HPm3NGownJTFdrNDCnoqbI+YgW2swC6elgrmAeGCSLejfzxzAlJykYAr01EtmyAIB"
+    ],
+    "unbonding_tx_sig": "BgDAa+fgnT46vV/OCINPnzAf713wT1bqguY0Imjs6cGQG2rKlofC9l4Y97xt9ssg/9iYETFNG47CvCGmwM4bzg==",
+    "slashing_unbonding_tx_sigs": [
+        "Am7TuG5OzMZaLxz0jEfgUGJfYb24G5yWSXHeBB2yEXwC8MKgrIpnh4QVHyvGG4+yJ7xcMKfkrnQEDO30+beIGO4B"
+    ]
+},
+{
+    "signer": "bbn1zcul5x2vwy0gpf6f7j6uhppzmaata8p3cr94dx",
+    "pk": "fa9d882d45f4060bdb8042183828cd87544f1ea997380e586cab77d5fd698737",
+    "staking_tx_hash": "824f533bd5d61b832edd7e2a76a88bcd66d1242c062a123e7ebb38d87f8a21d9",
+    "slashing_tx_sigs": [
+        "AnKJR6ba7acQPTLhfBKflJ9l9xLtJp+EpxzBwYQy2AbXWVCRtcQpNhY7uOUcPZMAC4ljv2+Ymr13oM3GaABMJskA"
+    ],
+    "unbonding_tx_sig": "/vpwP2ATIfgoqtvRDhB4h5Q2oXTKlRvYvpTBo4fLHYtwFJg9pjkvBG4fRqmvjzYDukcZe4noA4RlDXI456jBlw==",
+    "slashing_unbonding_tx_sigs": [
+        "AuDrZX0ppwmhQPT1xQWvoztj5KRCk/U7FRGuufY8q8bEYlZQv7GilcdqCUmUu0tPFPpqJGLP2weh2VIg9pTqzWkA"
+    ]
+}
+]

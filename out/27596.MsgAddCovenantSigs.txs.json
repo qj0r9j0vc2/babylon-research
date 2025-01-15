@@ -1,0 +1,26 @@
+[
+{
+    "signer": "bbn1kqx8c9h6qwrur2mz66yvu6kj4ze6nhpsz62drr",
+    "pk": "17921cf156ccb4e73d428f996ed11b245313e37e27c978ac4d2cc21eca4672e4",
+    "staking_tx_hash": "2504861003b5d4214248dc38abbfaa52a587d534f066dd0f81f38861a504bad9",
+    "slashing_tx_sigs": [
+        "AjtGlEYDm2zTctV2H2l/5iWhNciVfxfaw5Afh1pDnPKC0r0JQ/jLhaYG4xntHbm2Yy8pLscdtpiiiTBhhJEnXCQB"
+    ],
+    "unbonding_tx_sig": "gIG3qs+oIcVR6xtRy3wpTAsK8CAc/Ai7fS8w5BD7E49q1MFEjaHOLKfZAoV2tGI3ukyqFhj4/RB4lCH/hKA9gQ==",
+    "slashing_unbonding_tx_sigs": [
+        "AjHykGZ7V0M8amm5ALsD5kaqnSUfxOWZC6cpKyAM5L/UPjpTuQOOcP6smn9Z/+qyegI+6FMNoXTZ2WBu622LLTsB"
+    ]
+},
+{
+    "signer": "bbn16rzj8hhn4nd66wq7felknwx86y0n9rj9tlndss",
+    "pk": "0aee0509b16db71c999238a4827db945526859b13c95487ab46725357c9a9f25",
+    "staking_tx_hash": "2504861003b5d4214248dc38abbfaa52a587d534f066dd0f81f38861a504bad9",
+    "slashing_tx_sigs": [
+        "Alm0TCygJV5dYYfTokSsIsI1U5nQnj5JNW+Hg213CXpkkJxoGSzeeRSVElEOpm/kA9oaPm/RCxSk6f+ZoKWEyk0B"
+    ],
+    "unbonding_tx_sig": "dF4clm4tx1h5sYDkggrZXiNxHa3l6rfF3WGJuWwPw2aJ71Ep2ZJu78hE6ns0+GzzEhWKW8oCaA6eM7V0HOgx1A==",
+    "slashing_unbonding_tx_sigs": [
+        "AvSnkLcuOAAqGgMpXPn9ro0kC2KhfkOT58LEHUb0jqgRG11F8TdQIODurC441WEFKpR9IKJ4Pj6fcKpMub6hvqoA"
+    ]
+}
+]

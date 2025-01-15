@@ -1,0 +1,23 @@
+[
+{
+    "staker_addr": "bbn1er39gkvd7c6gp4sjje94xhg4my5l9fyzmfdry2",
+    "pop": {
+        "btc_sig_type": 2,
+        "btc_sig": "H5J+SVx6/2Hzyz8BHlXvgghL3XDOzdo1TOeay9Se+w4lVJ0mtrJsKfIQ13LJOuGcOcF1R8IgamFtk/AxAnwr4CY="
+    },
+    "btc_pk": "392086b958c479a62805b10dd2bb2b9f80849774d92189e68e9227bddfbbc311",
+    "fp_btc_pk_list": [
+        "bef341a7adb10213a7ec7825afeb7d57fbfa7b5f7bdf201204fb0ef62fb9cfa6"
+    ],
+    "staking_time": 64000,
+    "staking_value": 50000,
+    "staking_tx": "AgAAAAHfWCLMd0QQ9PN+tfI81eDs50od3n0+ToBKx3fRqA50ZgEAAAAA/////wJQwwAAAAAAACJRIDXWVCO5UuupSEYTECWC9xEeQCy9tUiiy6/aMxkq6SDpwc8AAAAAAAAWABSjwuVfGMQbzXusTTFhlp08q6ej9wAAAAA=",
+    "slashing_tx": "AgAAAAGHu7okU7mHxROx2r05SRcFEkibOCgYng/yUHrBfTmMIwAAAAAA/////wLECQAAAAAAABYAFFvhJiTQiitCQJXXwHIhwzRQ0UvxBKYAAAAAAAAiUSB9jkYKqh7FwWiDfpTM0FmelAmWOp+5/ZJco+ggJBu4agAAAAA=",
+    "delegator_slashing_sig": "YTyQQ3NfEK0LtfHLJTeN2ErhEhwI64rpDCcaBsDoPJrhMZAMioBDGEbwuNwJPUWawWd2Z2RhzX7nVhyKH9Z2fg==",
+    "unbonding_time": 1008,
+    "unbonding_tx": "AgAAAAGHu7okU7mHxROx2r05SRcFEkibOCgYng/yUHrBfTmMIwAAAAAA/////wGAuwAAAAAAACJRIInQ6KE+ue8Hj2tTuogpppA1U69xBGu34mnhYA5n6LeSAAAAAA==",
+    "unbonding_value": 48000,
+    "unbonding_slashing_tx": "AgAAAAGjTJ0CJphIEYSrrluVjK7/BBoahJrJiyaU2L4rnpdsCwAAAAAA/////wJgCQAAAAAAABYAFFvhJiTQiitCQJXXwHIhwzRQ0UvxmJ4AAAAAAAAiUSB9jkYKqh7FwWiDfpTM0FmelAmWOp+5/ZJco+ggJBu4agAAAAA=",
+    "delegator_unbonding_slashing_sig": "FzUq2VohW2bTqsejTyG8PrbU06ntLZvjBM3eIC+pZpcHbXDCA44sK/SivghdUVwuAfTVHUzmv5eKqO7NZgRxvQ=="
+}
+]

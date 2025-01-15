@@ -1,0 +1,8 @@
+27595 counts
+total: 59
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 3
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 16
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 1
+/babylon.finality.v1.MsgAddFinalitySig: 38
+/cosmos.bank.v1beta1.MsgSend: 1
+=============

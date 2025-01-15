@@ -1,0 +1,7 @@
+27600 counts
+total: 47
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 4
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 6
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 2
+/babylon.finality.v1.MsgAddFinalitySig: 35
+=============

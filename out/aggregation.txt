@@ -1,0 +1,116 @@
+27587 counts
+total: 55
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 2
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 17
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 1
+/babylon.finality.v1.MsgAddFinalitySig: 35
+=============
+
+27588 counts
+total: 49
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 2
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 10
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 1
+/babylon.finality.v1.MsgAddFinalitySig: 36
+=============
+
+27589 counts
+total: 48
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 2
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 8
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 2
+/babylon.finality.v1.MsgAddFinalitySig: 36
+=============
+
+27590 counts
+total: 67
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 5
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 25
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 2
+/babylon.finality.v1.MsgAddFinalitySig: 35
+=============
+
+27591 counts
+total: 63
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 2
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 16
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 2
+/babylon.finality.v1.MsgAddFinalitySig: 42
+/babylon.incentive.MsgWithdrawReward: 1
+=============
+
+27592 counts
+total: 48
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 2
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 8
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 2
+/babylon.finality.v1.MsgAddFinalitySig: 36
+=============
+
+27593 counts
+total: 56
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 2
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 18
+/babylon.finality.v1.MsgAddFinalitySig: 35
+/cosmos.bank.v1beta1.MsgSend: 1
+=============
+
+27594 counts
+total: 61
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 1
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 22
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 2
+/babylon.finality.v1.MsgAddFinalitySig: 35
+/cosmos.bank.v1beta1.MsgSend: 1
+=============
+
+27595 counts
+total: 59
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 3
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 16
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 1
+/babylon.finality.v1.MsgAddFinalitySig: 38
+/cosmos.bank.v1beta1.MsgSend: 1
+=============
+
+27596 counts
+total: 41
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 2
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 2
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 1
+/babylon.finality.v1.MsgAddFinalitySig: 35
+/cosmos.bank.v1beta1.MsgSend: 1
+=============
+
+27597 counts
+total: 47
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 10
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 1
+/babylon.finality.v1.MsgAddFinalitySig: 35
+/cosmos.bank.v1beta1.MsgSend: 1
+=============
+
+27598 counts
+total: 47
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 12
+/babylon.finality.v1.MsgAddFinalitySig: 34
+/cosmos.bank.v1beta1.MsgSend: 1
+=============
+
+27599 counts
+total: 48
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 6
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 5
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 2
+/babylon.finality.v1.MsgAddFinalitySig: 34
+/cosmos.bank.v1beta1.MsgSend: 1
+=============
+
+27600 counts
+total: 47
+/babylon.btcstaking.v1.MsgAddBTCDelegationInclusionProof: 4
+/babylon.btcstaking.v1.MsgAddCovenantSigs: 6
+/babylon.btcstaking.v1.MsgCreateBTCDelegation: 2
+/babylon.finality.v1.MsgAddFinalitySig: 35
+=============
+

@@ -1,0 +1,44 @@
+[
+{
+    "staker_addr": "bbn1er39gkvd7c6gp4sjje94xhg4my5l9fyzmfdry2",
+    "pop": {
+        "btc_sig_type": 2,
+        "btc_sig": "H0pqG9btcukIqW7v6gerHaOPro9YhH+gtd4kb8j3pQKND/UP82GVqNXaWUJ1KATHXlzmu1al7/SvpcE0DLODifg="
+    },
+    "btc_pk": "7f7fbe2a33f775ea596d9bdf6cf87be43e16e89afe66b37d71a4547af0e12084",
+    "fp_btc_pk_list": [
+        "bef341a7adb10213a7ec7825afeb7d57fbfa7b5f7bdf201204fb0ef62fb9cfa6"
+    ],
+    "staking_time": 64000,
+    "staking_value": 50000,
+    "staking_tx": "AgAAAAG6eDpVA8V8QQstbMAdnTB4oxPfRWMRFEezcJCj13MVmwEAAAAA/////wJQwwAAAAAAACJRIBdtc/mXxAKHG522N6Ocx5Sx1QrZ5W+/odj8JLTant6mwc8AAAAAAAAWABTscUUwnr4ZxgHC8p5Kl/7kWAMnKQAAAAA=",
+    "slashing_tx": "AgAAAAFEtqFl6ygs49rje7AC2iILWPKuAqE0tMt0q345OFmBdAAAAAAA/////wLECQAAAAAAABYAFFvhJiTQiitCQJXXwHIhwzRQ0UvxBKYAAAAAAAAiUSBI+gAqPxctADbUZBgY6hXl2r8rgscNPidZVtYQzyMohQAAAAA=",
+    "delegator_slashing_sig": "Tp3zS+kpPqtZJvHI3WWb+fQF46F8N8BoprkdGKe1DP93buFWcHSmH1kC8dvguEOk3slc8uomo8VXki2tBQ6jUw==",
+    "unbonding_time": 1008,
+    "unbonding_tx": "AgAAAAFEtqFl6ygs49rje7AC2iILWPKuAqE0tMt0q345OFmBdAAAAAAA/////wGAuwAAAAAAACJRIKX0mIOwRyTKud/+FINUiGU66cm/6W8QMROniFvJwJ25AAAAAA==",
+    "unbonding_value": 48000,
+    "unbonding_slashing_tx": "AgAAAAEUS2E9XK83c3gd+nKzrmEaZmLBfpfB8fJrbNqlQ4aasAAAAAAA/////wJgCQAAAAAAABYAFFvhJiTQiitCQJXXwHIhwzRQ0UvxmJ4AAAAAAAAiUSBI+gAqPxctADbUZBgY6hXl2r8rgscNPidZVtYQzyMohQAAAAA=",
+    "delegator_unbonding_slashing_sig": "0Y5hi/tzrpljg+5N1Cvw1rYEWfyj41mUrbftS7uZXwuE5DrIzOHQMY1LRzs9Ex8qTT8YuClxXYjTjLsLYP1Elg=="
+},
+{
+    "staker_addr": "bbn1mrc7qc7jm92lje0efj4tm397es8ee8h2tetxek",
+    "pop": {
+        "btc_sig_type": 2,
+        "btc_sig": "IMMxaqyQqe3ucX+bFAN691YdSxBg0Ka3MrYG0a/ZMShmBVT5IaHIifmIsfKcCPUx36OkBM1hBS9d6VtjvDtp8Ks="
+    },
+    "btc_pk": "e5a0897eb1574b0e07ad8774d39ba86d9d2c2fa45c68d71fb0fd127b2e940e09",
+    "fp_btc_pk_list": [
+        "143a1961c97682d59b5f48d5b469ac74ac45273245947865e3c4ad575e4fa646"
+    ],
+    "staking_time": 64000,
+    "staking_value": 500000,
+    "staking_tx": "AgAAAAH64zdM74bLwLcpqjZoSJJOckc6XZa2p0+lDF9ZV8xH1AIAAAAA/////wIgoQcAAAAAACJRIJSyyR64KfUjWG8h9OBf+1hrIBOXmFW/tJ4lmz7Wn5pFEIoBAAAAAAAiUSAo7RwFXIxRLXga7PNmKHEW+ZdcDX5RkhJSJmZfYJvxsgAAAAA=",
+    "slashing_tx": "AgAAAAHZIYp/2Di7fj4SKgYsJNFmzYuodip+3S6DG9bVO1NPggAAAAAA/////wKoYQAAAAAAABYAFFvhJiTQiitCQJXXwHIhwzRQ0Uvx8CsHAAAAAAAiUSBrJGcCXWZBYCFlrjKsjhhLVM9XaaGifpqCpUPE1+f1vQAAAAA=",
+    "delegator_slashing_sig": "WY4z7Yd0DH6RcJnjXbfezy16NyjZEUXstlkVtMoFmAmnbFokXgwNro/7A3CXfmG10Dzl/6xAFNOmYbTp2sVwWA==",
+    "unbonding_time": 1008,
+    "unbonding_tx": "AgAAAAHZIYp/2Di7fj4SKgYsJNFmzYuodip+3S6DG9bVO1NPggAAAAAA/////wFQmQcAAAAAACJRIGQ3KSTEB73uUXG9/P6CsihX2xckbv5w064XSD9RGJpEAAAAAA==",
+    "unbonding_value": 498000,
+    "unbonding_slashing_tx": "AgAAAAFovDDxuosG4osk/vLemtGtyz4ne53a+CItEYd+QQPLGgAAAAAA/////wJEYQAAAAAAABYAFFvhJiTQiitCQJXXwHIhwzRQ0UvxhCQHAAAAAAAiUSBrJGcCXWZBYCFlrjKsjhhLVM9XaaGifpqCpUPE1+f1vQAAAAA=",
+    "delegator_unbonding_slashing_sig": "zJkv7fQs7JTyNMgMgzrVeyIGqLWYJiA/N8h/26zEWBttftfTHxvPe1t1/8eoI2l4jNneO5sQ6U8T9jZe2SJlEw=="
+}
+]
